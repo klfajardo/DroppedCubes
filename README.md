@@ -1,7 +1,7 @@
-# DroppedCubes
-**About DroppedCubes**
+# Dropped Cubes
+**About Dropped Cubes**
 
-The essence of DroppedCubes lies in its falling cubes and line-clearing mechanics. As cubes fall from the top, your task is to rotate and position them to complete lines on the grid. Clearing lines earns you points and creates more space for new cubes, extending your playtime.
+The essence of Dropped Cubes lies in its falling cubes and line-clearing mechanics. As cubes fall from the top, your task is to rotate and position them to complete lines on the grid. Clearing lines earns you points and creates more space for new cubes, extending your playtime.
 
 (gif here)
 
